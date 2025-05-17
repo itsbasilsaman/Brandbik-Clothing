@@ -1,4 +1,9 @@
-@charset "UTF-8";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ 
 /*!--------------------
 Template Name: Glamics - The Fashion & Apparel E-Commerce HTML Template
 Author: tempticspro
